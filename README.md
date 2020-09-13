@@ -1,6 +1,6 @@
-# Solving Sparse Reward Tasks with Action Guidance
+# Action Guidance: Getting the Best of Training Agents with Sparse Rewards and Shaped Rewards
 
-This repo contains the source code of the paper *Solving Sparse Reward Tasks with Action Guidance*.
+This repo contains the source code of the paper *Action Guidance: Getting the Best of Training Agents with Sparse Rewards and Shaped Rewards*.
 
 
 Benchmarked Learning Curves             |  Atari
