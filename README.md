@@ -3,7 +3,7 @@
 This repo contains the source code of the paper *Action Guidance: Getting the Best of Sparse Rewards and Shaped Rewards for Real-time Strategy Games*.
 
 
-Benchmarked Learning Curves             |  
+Benchmarked Learning Curves             |  ~
 :-------------------------:|:-------------------------:
 Reward Shaping  |  Action Guidance
 Learns to only produce combat units after the resources are exhausted  |  Leanrs to produce combat units and harvest resourced concurrently.
