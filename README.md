@@ -1,6 +1,6 @@
-# Action Guidance: Getting the Best of Training Agents with Sparse Rewards and Shaped Rewards
+# Action Guidance: Getting the Best of Sparse Rewards and Shaped Rewards for Real-time Strategy Games
 
-This repo contains the source code of the paper *Action Guidance: Getting the Best of Training Agents with Sparse Rewards and Shaped Rewards*.
+This repo contains the source code of the paper *Action Guidance: Getting the Best of Sparse Rewards and Shaped Rewards for Real-time Strategy Games*.
 
 
 Benchmarked Learning Curves             |  Atari
