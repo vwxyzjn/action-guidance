@@ -54,8 +54,11 @@ WANDB_KEY=${YOUR_WANDB_KEY} bash jobs.sh > docker.sh
 ```
 
 You will find a `docker.sh` with docker run commands for all of our experiments
-reported in the paper. Note that you should run only some of these `docker run` commands  
-at a time to prevent them from exhausting your memory and CPU.
+reported in the paper. Note that you should run only some of these `docker run` commands  at a time to prevent them from exhausting your memory and CPU.
+
+## Running with AWS
+
+Check out the tutorial here: https://costa.sh/blog-how-we-conduct-drl-empirical-investigation-via-aws-batch.html 
 
 # Reproduce The Figures and Tables
 
